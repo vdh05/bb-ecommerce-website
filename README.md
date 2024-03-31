@@ -36,5 +36,5 @@ npm install</pre>
 <h4>Run</h4>
 <pre># Run frontend (:3000) & backend (:5000)
 npm run dev</pre>
-
+<H3>made by vidhi harwani</H3>
 
